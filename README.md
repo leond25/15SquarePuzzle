@@ -1,1 +1,1 @@
-This is the fifteen square puzzle game.
+The "15 square puzzle game" is a classic sliding puzzle where you have 15 numbered squares on a 4x4 grid with one empty space, and the goal is to rearrange the squares by sliding them into the empty space until they are in numerical order from 1 to 15
